@@ -5,13 +5,11 @@
 The Phishing Campaign project is a Certificate path hosted by Mastercard, aimed to design a phishing email simulation aimed for a Security Awareness team. The primary focus was to create a believable phishing email that an unaware employee might be tricked by, then create a learning presentation for teams that need security awareness training. This hands-on experience was designed to deepen understanding of types of phishing emails and how to train employees to avoid them.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Creating realistic phishing emails to mimic realistic attacks.
+- Crafting Phishing presentations to educate non-security personel.
+- Ability to recognize types of phishing & social engineering tactics.
+- Recognizing vulnerabilities that could be taken advantage of from phishing attempts. 
 
 ### Tools Used
 
