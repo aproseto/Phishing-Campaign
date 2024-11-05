@@ -1,9 +1,8 @@
 # Phishing-Campaign
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Phishing Campaign project is a Certificate path hosted by Mastercard, aimed to design a phishing email simulation aimed for a Security Awareness team. The primary focus was to create a believable phishing email that an unaware employee might be tricked by, then create a learning presentation for teams that need security awareness training. This hands-on experience was designed to deepen understanding of types of phishing emails and how to train employees to avoid them.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -15,17 +14,15 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Word
+- Microsoft Powerpoint
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+![Phishing Email](https://github.com/user-attachments/assets/189ecd5e-c392-44c1-bed4-de30cc9f02a4)
+*Ref 1: My Phishing Email*
+![Campaign Results](https://github.com/user-attachments/assets/d36dbf0c-3fbe-41cc-bec7-42d5b1dabe47)
+*Ref 2: Mock Campaign Results*
+![Task 1](https://github.com/user-attachments/assets/58dede34-4bf2-4afd-bdc8-06f81fe13e38)
+*Ref 3: 
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
